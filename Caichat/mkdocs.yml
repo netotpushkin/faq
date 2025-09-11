@@ -37,6 +37,7 @@ plugins:
       manual: true
 
 nav:
+  - Home: index.md
   - Profile:
     - Profile Settings: profile-settings.md
     - User Personas: user-personas.md

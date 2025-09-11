@@ -14,3 +14,9 @@
     padding: 4px 6px;
     border-radius: 4px;
 }
+
+.md-content img {
+    border: 1px solid #8026ff;
+    border-radius: 4px;
+    padding: 4px;
+}
