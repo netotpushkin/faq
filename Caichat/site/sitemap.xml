@@ -1,3 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>Nonecharacter-chats/</loc>
+        <lastmod>2025-09-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonecharacter-chats/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/character-chats/"/>
+    </url>
+    <url>
+        <loc>Nonecharacters-catalog/</loc>
+        <lastmod>2025-09-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonecharacters-catalog/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/characters-catalog/"/>
+    </url>
+    <url>
+        <loc>Nonecreating-chatbot/</loc>
+        <lastmod>2025-09-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonecreating-chatbot/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/creating-chatbot/"/>
+    </url>
+    <url>
+        <loc>Nonegeneration-settings/</loc>
+        <lastmod>2025-09-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonegeneration-settings/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/generation-settings/"/>
+    </url>
+    <url>
+        <loc>Noneimage-prompts/</loc>
+        <lastmod>2025-09-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneimage-prompts/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/image-prompts/"/>
+    </url>
+    <url>
+        <loc>None./</loc>
+        <lastmod>2025-09-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/"/>
+    </url>
+    <url>
+        <loc>Noneprofile-settings/</loc>
+        <lastmod>2025-09-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneprofile-settings/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/profile-settings/"/>
+    </url>
+    <url>
+        <loc>Nonetokens/</loc>
+        <lastmod>2025-09-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetokens/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/tokens/"/>
+    </url>
+    <url>
+        <loc>Noneuser-personas/</loc>
+        <lastmod>2025-09-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser-personas/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/user-personas/"/>
+    </url>
+    <url>
+        <loc>Noneru/character-chats/</loc>
+        <lastmod>2025-09-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/character-chats/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonecharacter-chats/"/>
+    </url>
+    <url>
+        <loc>Noneru/characters-catalog/</loc>
+        <lastmod>2025-09-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/characters-catalog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonecharacters-catalog/"/>
+    </url>
+    <url>
+        <loc>Noneru/creating-chatbot/</loc>
+        <lastmod>2025-09-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/creating-chatbot/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonecreating-chatbot/"/>
+    </url>
+    <url>
+        <loc>Noneru/generation-settings/</loc>
+        <lastmod>2025-09-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/generation-settings/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonegeneration-settings/"/>
+    </url>
+    <url>
+        <loc>Noneru/image-prompts/</loc>
+        <lastmod>2025-09-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/image-prompts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneimage-prompts/"/>
+    </url>
+    <url>
+        <loc>Noneru/</loc>
+        <lastmod>2025-09-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+    </url>
+    <url>
+        <loc>Noneru/profile-settings/</loc>
+        <lastmod>2025-09-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/profile-settings/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneprofile-settings/"/>
+    </url>
+    <url>
+        <loc>Noneru/tokens/</loc>
+        <lastmod>2025-09-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/tokens/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetokens/"/>
+    </url>
+    <url>
+        <loc>Noneru/user-personas/</loc>
+        <lastmod>2025-09-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/user-personas/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser-personas/"/>
+    </url>
 </urlset>

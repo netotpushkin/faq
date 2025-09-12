@@ -1,3 +1,3 @@
-# Welcome to RPGC.AI
+# Welcome to CAICHAT.AI
 
 Frequently Asked Questions can be added here.

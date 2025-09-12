@@ -1,7 +1,6 @@
-site_name: CAICHAT.AI
+site_name: "CAICHAT.AI"
 
 theme:
-  language: en
   name: material
   features:
     - navigation.expand
@@ -35,6 +34,29 @@ plugins:
   - search
   - glightbox:
       manual: true
+  - i18n:
+      reconfigure_material: true
+      languages:
+        - locale: en
+          name: English
+          build: true
+          default: true
+        - locale: ru
+          name: Русский
+          build: true
+          nav:
+            - Главная: index.md
+            - Профиль:
+              - Настройки профиля: profile-settings.md
+              - Персоны пользователя: user-personas.md
+            - Персонажи:
+              - Каталог персонажей: characters-catalog.md
+              - Чат с персонажем: character-chats.md
+              - Создание чат-бота: creating-chatbot.md
+            - Дополнительно:
+              - Токены: tokens.md
+              - Настройки генерации: generation-settings.md
+              - Промпт для изображений: image-prompts.md
 
 nav:
   - Home: index.md
