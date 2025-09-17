@@ -1,6 +1,6 @@
-# Welcome to [CAICHAT.AI](https://caichat.ai)  
+# Welcome to [CAICHAT.AI](https://caichat.ai)
 
-On this page, you will find guides and tips for using the site. To return to the homepage and start exploring chatbots and characters, click [here](https://caichat.ai).
+On this page, you will find instructions and tips for using the website. To return to the homepage and start chatting with characters, click [here](https://caichat.ai).
 
 <div class="grid cards" markdown>
 

@@ -1,6 +1,7 @@
 :root  > * {
-  --md-primary-fg-color:        #8026ff;
-  --md-accent-fg-color:         #8026ff;
+  --md-primary-fg-color: #8026ff;
+  --md-accent-fg-color: #8026ff;
+  --md-typeset-a-color: #9447ff !important;
 }
 
 .md-typeset .admonition,
@@ -26,7 +27,7 @@
   padding: 4px;
 }
 
-@media (max-width: 1220px) {
+@media (max-width: 1219px) {
   .md-nav__title {
     height: 4rem !important;
   }
