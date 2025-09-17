@@ -1,7 +1,6 @@
 :root  > * {
   --md-primary-fg-color:        #8026ff;
-  --md-primary-fg-color--light: #8026ff;
-  --md-primary-fg-color--dark:  #8026ff;
+  --md-accent-fg-color:         #8026ff;
 }
 
 .md-typeset .admonition,
@@ -11,12 +10,79 @@
 }
 
 .md-typeset code {
-    padding: 4px 6px;
-    border-radius: 4px;
+  padding: 4px 6px;
+  border-radius: 3px;
 }
 
-.md-content img {
-    border: 1px solid #8026ff;
-    border-radius: 4px;
-    padding: 4px;
+[data-md-color-scheme="default"] .md-content img {
+  border: 1px solid #00000012;
+  border-radius: 3px;
+  padding: 4px;
+}
+
+[data-md-color-scheme="slate"] .md-content img {
+  border: 1px solid hsla(var(--md-hue), 15%, 90%, 0.12);
+  border-radius: 3px;
+  padding: 4px;
+}
+
+@media (max-width: 1220px) {
+  .md-nav__title {
+    height: 4rem !important;
+  }
+}
+
+@media (min-width: 1220px) {
+
+  .md-nav.md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link .md-ellipsis {
+    font-weight: 700;
+  }
+
+  .md-nav.md-nav--primary .md-nav__item.md-nav__item--nested nav .md-nav__item .md-nav__link .md-ellipsis {
+    font-weight: normal;
+  }
+
+  .md-nav.md-nav--primary {
+    border-radius: 3px;
+    padding: 6px;
+  }
+
+  [data-md-color-scheme="default"] .md-nav.md-nav--primary {
+    border: 1px solid #00000012;
+  }
+
+  [data-md-color-scheme="slate"] .md-nav.md-nav--primary {
+    border: 1px solid hsla(var(--md-hue), 15%, 90%, 0.12);
+  }
+
+}
+
+@media (min-width: 960px) {
+
+  .md-nav.md-nav--secondary {
+    border-radius: 3px;
+    padding: 6px;
+  }
+
+  [data-md-color-scheme="default"] .md-nav.md-nav--secondary {
+    border: 1px solid #00000012;
+  }
+
+  [data-md-color-scheme="slate"] .md-nav.md-nav--secondary {
+    border: 1px solid hsla(var(--md-hue), 15%, 90%, 0.12);
+  }
+
+  .md-nav.md-nav--secondary:not(:has(*)) {
+    border: none !important;
+  }
+
+  .md-nav.md-nav--secondary > .md-nav__title {
+    padding-top: 10px;
+    font-weight: 700;
+  }
+
+  [data-md-color-scheme="default"] .md-nav.md-nav--secondary > .md-nav__title {
+    color: #000;
+  }
+
 }
